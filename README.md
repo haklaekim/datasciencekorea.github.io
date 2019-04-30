@@ -6,6 +6,12 @@ Obtaining a primary data source is critical to construct a knowledge graph, sinc
 
 This workshop aims to share and discuss about knowledge graph techniques based on open data both academia and industries. In particular, this workshop focuses on various use cases including data wrangling, data analysis, data visualization in the prospect of Data Science, and technical challenges to construct structured knowledge from large-scale raw data (focused on open data).
 
+## Accepted papers
+
+* Su-Seong Chai, Dongjun Suh, A Design of Building Inventory for Risk Analysis using Open Data 
+
+> This study introduces a design of building inventory for risk analysis using open data in Korea. Recently, disasters of various sizes and types are occur-ring globally. Risk analysis tools are used to estimate the losses due to dis-asters. However, there is a limitation in the application of disaster statisti-cal data in Korea because these data are based on the country where the tool is produced. To improve the accuracy of loss assessment, it is necessary to utilize data in consideration of each country's environment. However, the data opened at the national level are distributed among various organiza-tions. Thus, considerable time is required to build infrastructure. Therefore, we collect the open data distributed among various institutions and ensure data compatibility and interoperability through the standardization of the data in various formats. In addition to a disaster analysis system, a design method for a database system that can support various analysis systems through the data is proposed considering scalability.
+
 
 ## CALL FOR SUBMISSIONS
 
